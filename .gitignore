@@ -1,0 +1,7 @@
+# Ignore all testing images and texts
+*.png
+*.jpg
+*.txt
+
+#Ignore the development virtual environment
+.venv/
